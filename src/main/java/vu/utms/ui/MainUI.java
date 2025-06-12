@@ -10,7 +10,7 @@ import javax.swing.JTabbedPane;
 import javax.swing.SwingUtilities;
 import javax.swing.border.EmptyBorder;
 import vu.utms.model.TransportOfficer;
-import vu.utms.model.User;
+import vu.utms.model.User; 
 
 /**
  *
