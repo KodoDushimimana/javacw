@@ -4,7 +4,7 @@ import vu.utms.ui.LoginUI;
 
 /**
  *
- * @author phill
+ * @author Group C
  */
 /**
 This is the main Class
