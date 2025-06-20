@@ -6,6 +6,10 @@ import vu.utms.ui.LoginUI;
  *
  * @author phill
  */
+/**
+This is the main Class
+*/
+
 
 public class Main {
     public static void main(String[] args) {
