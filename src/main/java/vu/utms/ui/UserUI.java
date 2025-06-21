@@ -22,6 +22,13 @@ import vu.utms.model.User;
  *
  * @author phill
  */
+/*
+ * UserUI panel for managing
+ * user data,including displaying,adding,editing
+ * and deleting users.
+ * This panel interacts with UserDAO
+ * to perform data operations.
+ */
 public class UserUI extends JPanel {
     private final UserDAO dao = new UserDAO();
     private final DefaultTableModel model;
